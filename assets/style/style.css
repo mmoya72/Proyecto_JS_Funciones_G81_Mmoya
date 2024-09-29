@@ -1,0 +1,30 @@
+*{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cuerpo{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    vertical-align: column;
+}
+
+.ele_1{
+    background-color: white;    
+    width: 25%;
+}
+
+.ele_2{
+    background-color: white;    
+    width: 25%;
+}
+.ele_3{
+    background-color: white;    
+    width: 25%;
+}
+.ele_4{
+    background-color: white;    
+    width: 25%;
+}
